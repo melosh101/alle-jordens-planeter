@@ -1,1 +1,4 @@
 # alle-jordens-planeter
+
+## IO
+Io (/ˈaɪ.oʊ/), or Jupiter I, is the innermost and second-smallest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth's Moon, Io is the fourth-largest natural satellite in the Solar System, has the highest density of any natural satellite, the strongest surface gravity of any natural satellite, and the lowest amount of water by atomic ratio of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and named by him in 1614 after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. 
