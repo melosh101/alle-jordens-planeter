@@ -1,19 +1,29 @@
 # alle-jordens-planeter
 
+
 ## IO
 Io (/ˈaɪ.oʊ/), or Jupiter I, is the innermost and second-smallest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth's Moon, Io is the fourth-largest natural satellite in the Solar System, has the highest density of any natural satellite, the strongest surface gravity of any natural satellite, and the lowest amount of water by atomic ratio of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and named by him in 1614 after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. 
 
+
+## Jupiter
 Jupiter er den femte planet fra Solen i Solsystemet. Jupiter har 92[1] kendte måner. Planeten er den største planet i vores solsystem, og den kan ses med det blotte øje fra Jorden som det (normalt) fjerdeklareste objekt på himlen – kun overgået af Solen, vor egen Måne samt Venus og ved visse lejligheder Mars.
 Jupiter har også rekorden med hensyn til omdrejningshastighed; den drejer én gang om sig selv i løbet af mindre end 10 timer, hvilket får den til at "bulne ud" langs ækvator – i et astronomisk teleskop ses planetskiven af den grund svagt elliptisk frem for helt cirkelrund. Rotationen er differentiel, idet vinkelhastigheden er størst i ækvatorregionen.
 Jupiters bæltemønster brydes flere steder af storme, hvor skymasserne i atmosfæren hvirvles rundt. Den mest bemærkelsesværdige af disse er Jupiters røde plet, der er en gigantisk storm, der kan observeres med simple teleskoper. Den røde plet et et vedvarende højtryk i Jupiters atmosfære, der skaber en anticyklonisk storm 22° syd for planetens ækvator. Den røde plet har været løbende observeret siden 1830.[2] Tidligere observationer i perioden fra 1665 til 1713 formodes at være af den samme storm, og er dette tilfældet, så har stormen været aktiv i mere end 350 år.[3][4]
 
+
+## Pletten
 Pletten skifter facon, farve og udbredelse fra tid til anden. Stormens størrelse har i dag en diameter på 16.330 km, svarende til ca. 1,3 gange Jordens størrelse. Stormen har dog tidligere i 1800-tallet været målt til at have en størrelse på 56.300 km, svarende til ca. 4,5 gange Jordens størrelse.[5] Over de senere mange år er stormen blevet mindre, og fortsætter reduktionen, kan synet af stormen muligvis forsvinde indenfor de næste 20 år.[6]
 Uranus er den syvende planet fra Solen i Solsystemet og var den første planet der blev opdaget i historisk tid. William Herschel opdagede d. 13. marts 1781 en tåget klat, som han først troede var en fjern komet. I slutningen af 1781 konkluderede han at himmellegemet bevægede sig i en planetbane[2]. Uranus er en gasplanet og er, målt på diameteren, solsystemets tredjestørste planet efter Jupiter og Saturn. Uranus er opkaldt efter Jupiters morfar og farfar Uranos.
 
+
+## Mars
 Mars' afstand til Solen veksler mellem 207 og 249 mio. km, med en gennemsnitsafstand på 1,5 au (228 mio. km) Diameteren er lidt over halvdelen af Jordens, mens massen kun er 0,107 jordmasser. Det giver en tyngdekraft på 38 % af Jordens.[36] Mars har en tynd atmosfære der primært består af kuldioxid. Dens overflade er fyldt med vulkaner (som eksempel Olympus Mons) og dybe kløfter (som eksempelvis Valles Marineris), der viser at geologisk aktivitet har foregået nyligt (2 mio. år). En stor del af overfladen har et tykt lag rødt støv som blandt andet indeholder meget jern hvilket giver Mars den røde farve.[37] Mars har to små måner (Phobos og Deimos), som menes at være asteroider, som er indfanget af Mars' gravitation.[38]
 
 
+## Mars
 Mars is the fourth planet from the Sun. It is also known as the "Red Planet", because of its orange-red appearance.[22][23] Mars is a desert-like rocky planet with a tenuous carbon dioxide (CO2) atmosphere. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 °C (−243 °F) to 20 °C (68 °F)[24] and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, frost, larger polar regions of permafrost and ice caps (with seasonal CO2 snow), but no liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. It is half as wide as Earth or twice the Moon, with a diameter of 6,779 km (4,212 mi), and has a surface area the size of all the dry land of Earth.
 
+
+## Pletten
 Pletten skifter facon, farve og udbredelse fra tid til anden. Stormens størrelse har i dag en diameter på 16.330 km, svarende til ca. 1,3 gange Jordens størrelse. Stormen har dog tidligere i 1800-tallet været målt til at have en størrelse på 56.300 km, svarende til ca. 4,5 gange Jordens størrelse.[5] Over de senere mange år er stormen blevet mindre, og fortsætter reduktionen, kan synet af stormen muligvis forsvinde indenfor de næste 20 år.[6]
 Uranus er den syvende planet fra Solen i Solsystemet og var den første planet der blev opdaget i historisk tid. William Herschel opdagede d. 13. marts 1781 en tåget klat, som han først troede var en fjern komet. I slutningen af 1781 konkluderede han at himmellegemet bevægede sig i en planetbane[2]. Uranus er en gasplanet og er, målt på diameteren, solsystemets tredjestørste planet efter Jupiter og Saturn. Uranus er opkaldt efter Jupiters morfar og farfar Uranos.
